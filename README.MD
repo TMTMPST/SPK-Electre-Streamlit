@@ -16,7 +16,7 @@ This project is a **Streamlit** application that implements the **ELECTRE IV** m
 ## 📌 Installation
 1. **Clone this repository:**
    ```sh
-   git clone https://github.com/your-username/electre-streamlit.git
+   git clone https://github.com/TMTMPST/SPK-Electre-Streamlit.git
    cd electre-streamlit
    ```
 
